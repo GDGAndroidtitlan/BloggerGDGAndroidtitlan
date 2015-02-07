@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_dark">#D32F2F</color>
+    <color name="primary">#FF1744</color>
+    <color name="accent">#FFC107</color>
+    <color name="white">#ffffff</color>
+    <color name="whiteIndicator">#80ffffff</color>
+    <color name="nav_drawer">#37474F</color>
+    <color name="nav_list_item">#737373</color>
+</resources>
